@@ -41,3 +41,6 @@ async def invoke(content: str):
             "Connection": "keep-alive",
         }
     )
+
+
+# chat function
